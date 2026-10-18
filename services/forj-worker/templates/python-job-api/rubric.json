@@ -1,0 +1,32 @@
+[
+  {
+    "criterion": "Python fundamentals",
+    "points": 20,
+    "method": "automated",
+    "description": "Code structure, typing, idiomatic syntax, and clean imports"
+  },
+  {
+    "criterion": "API implementation",
+    "points": 25,
+    "method": "automated",
+    "description": "Correct endpoints, HTTP status codes, routing, and JSON payload handling"
+  },
+  {
+    "criterion": "Database/SQL",
+    "points": 20,
+    "method": "automated",
+    "description": "Data persistence, schema constraints, and query filtering"
+  },
+  {
+    "criterion": "Testing and error handling",
+    "points": 20,
+    "method": "automated",
+    "description": "Validation of email, non-negative experience, and 404/400 error responses"
+  },
+  {
+    "criterion": "Code explanation and documentation",
+    "points": 15,
+    "method": "ai_assisted",
+    "description": "Clarity of candidate follow-up explanation, architecture design notes, and docstrings"
+  }
+]
